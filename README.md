@@ -1,5 +1,5 @@
 # Apklis-Admin-Api
-Accede a la plataforma de apklis admin de forma programatica! Desarrollador: Karel Gonzalez Zaldivar
+Accede a la plataforma de apklis admin de forma programatica! Desarrollador: Karel Gonzalez Zaldivar. [Distribucion](https://github.com/karelantonio/Apklis-Admin-Api/releases)
 ***
 ### Como funciona esta API?
 La Api se comunica con el servidor meiante un servicio web del tipo JSON Rest, en la cual se transfieren datos de una forma limpia, entendible para la computadora y las personas (para depuracion)
